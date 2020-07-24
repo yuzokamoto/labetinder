@@ -6,9 +6,11 @@
 
 ![Labetinder Demo](https://github.com/yuzokamoto/labetinder/blob/master/visuals/AhAJ2LZln7.gif)
 
+<hr />
+
 <h3>Instalação</h3>
 
-- git clone
+- git clone link
 - yarn install ou npm install
 - yarn start ou npm start
 - profit
