@@ -14,3 +14,8 @@
 - yarn install ou npm install
 - yarn start ou npm start
 - profit
+
+<h3>Contato</h3>
+
+### [Linkedin](https://www.linkedin.com/in/yuzo-santana-okamoto-9077071a4/)
+### yuzokamoto@gmail.com
