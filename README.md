@@ -10,7 +10,7 @@
 
 <h3>Instalação</h3>
 
-- git clone link
+- git clone https://github.com/yuzokamoto/labetinder.git
 - yarn install ou npm install
 - yarn start ou npm start
 - profit
